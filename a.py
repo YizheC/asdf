@@ -1,3 +1,3 @@
-for i in range(5):
+for i in range(7):
     print(i)
 
